@@ -1,5 +1,5 @@
 # minitalk
-42 Curriculum (Level 3) - Simulate the behavior of a client (which has to send a string) and a server (which receives and displays the string)
+42 Curriculum (Level 2) - Simulate the behavior of a client (which has to send a string) and a server (which receives and displays the string)
 
 ## Use
 `git clone` repository  
